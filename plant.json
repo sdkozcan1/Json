@@ -1,0 +1,97 @@
+[
+    {
+        "Cactus and Succulent": [
+            {
+                "title": "ACANTHOCALYCİUM",
+                "type": "Cactus",
+                "thorn": true,
+                "flowers?": true,
+                "images": "https://st3.depositphotos.com/11498592/19409/i/450/depositphotos_194098686-stock-photo-cactus-acanthocalycium-violaceum-p110a-with.jpg"
+            },
+            {
+                "title": "ARİOCARPUS CONFUSUS ",
+                "type": "Cactus with Succulent",
+                "thorn": false,
+                "flowers?": true,
+                "images": "https://st3.depositphotos.com/2127999/35448/i/450/depositphotos_354489286-stock-photo-ariocarpus-trigonus-cactus-flower-pot.jpg"
+            },
+            {
+                "title": "OPUNTİA RABBIT EAR ",
+                "type": "Cactus",
+                "thorn": true,
+                "flowers?": true,
+                "images": "https://st3.depositphotos.com/2000583/16387/i/1600/depositphotos_163871544-stock-photo-opuntia-cactus-in-pots-with.jpg"
+            },
+            {
+                "title": "SENECIO STAPELIFORMİS ",
+                "type": "Cactus",
+                "thorn": true,
+                "flowers?": true,
+                "images": "https://i3.posta.com.tr/i/posta/75//750x0/62ce7930e4bfdc3054a48d8a"
+            },
+            {
+                "title": "EUPHORBIA ANOPLIA TANZANIAN ZIPPER ",
+                "type": "Cactus",
+                "thorn": false,
+                "flowers?": true,
+                "images": "https://i3.posta.com.tr/i/posta/75//750x0/62ce7931e4bfdc3054a48d8d"
+            },
+            {
+                "title": "HAMATA CACTUS ",
+                "type": "Cactus",
+                "thorn": true,
+                "flowers?": true,
+                "images": "https://i3.posta.com.tr/i/posta/75//750x0/62ce79a0e4bfdc24e841ada1"
+            },
+            {
+                "title": "MİCKY  CACTUS ",
+                "type": "Cactus",
+                "thorn": true,
+                "flowers?": true,
+                "images": "https://i3.posta.com.tr/i/posta/75//750x0/62ce7a7be4bfdc3054a48d9b"
+            },
+            {
+                "title": " KALANCHOE BLOSSFELDIANA ",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": true,
+                "images": "https://as1.ftcdn.net/v2/jpg/01/30/73/90/1000_F_130739051_r0abZ7vykNks54oa76NXMGdvUvGF2Y5k.jpg"
+            },
+            {
+                "title": "HAWORTHIA FASCIATA",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": false,
+                "images": "https://st2.depositphotos.com/6729744/11345/i/450/depositphotos_113455180-stock-photo-haworthia-fasciata-one-of-succulent.jpg"
+            },
+            {
+                "title": "ALOE VERA",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": false,
+                "images": "https://st4.depositphotos.com/22628872/24899/i/111/depositphotos_248992958-stock-photo-cactus-glass-pot-home-plant.jpg"
+            },
+            {
+                "title": "SENECIO ROWLEYANUS",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": false,
+                "images": "https://st.depositphotos.com/49556774/57663/i/1600/depositphotos_576634406-stock-photo-string-pearls-plant-white-planter.jpg"
+            },
+            {
+                "title": "CRASSULA OVATA",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": false,
+                "images": "https://st3.depositphotos.com/1001944/14892/i/1600/depositphotos_148921191-stock-photo-houseplant-crassula-ovata-jade-plant.jpg"
+            },
+            {
+                "title": "ECHEVERIA",
+                "type": "Succulent",
+                "thorn": false,
+                "flowers?": false,
+                "images": "https://st3.depositphotos.com/1001686/19581/i/1600/depositphotos_195810736-stock-photo-green-succulent-plant-echeveria-flowerpot.jpg"
+            }
+        ]
+    }
+]
