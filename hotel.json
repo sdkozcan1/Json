@@ -1,0 +1,234 @@
+[
+    {
+        "id": "0.1",
+        "city": "Antalya",
+        "hotelName": "Ramada Plaza by Wyndham Antalya",
+        "link": "https://www.wyndhamhotels.com/tr-tr/ramada/antalya-turkey/ramada-plaza-antalya/overview?CID=LC:RA::GGL:RIO:National:22986&iata=00093796",
+        "yildiz": "5",
+        "imageslink": "https://pix8.agoda.net/hotelImages/179437/0/0ef5c8ccf5955191eea08db7e036fde5.jpg?ca=7&ce=1&s=1024x768"
+    },
+    {
+        "id": "0.2",
+        "city": "Antalya",
+        "hotelName": "Sealife Family Resort Hotel - All Inclusive",
+        "link": "https://www.sealifehotel.com/tr",
+        "yildiz": "5",
+        "imageslink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTSusnRWn9k0eChNARkUDZ7_gzIG_oeqAvaw&usqp=CAU"
+    },
+    {
+        "id": "0.3",
+        "city": "Antalya",
+        "hotelName": "The Land Of Legends Kingdom Hotel",
+        "link": "https://thelandoflegendsthemepark.com/konaklama/kingdom-hotel?gclid=CjwKCAjw79iaBhAJEiwAPYwoCGZb3sBxfm03SaLCoHwJbWfgqRnJLLLowFrBBspV-_FhCADMUWyxXxoCkwoQAvD_BwE",
+        "yildiz": "5",
+        "imageslink": "https://ak-d.tripcdn.com/images/220j0s000000hkd10976D_Z_1100_824_R5_Q70_D.jpg"
+    },
+    {
+        "id": "0.4",
+        "city": "Antalya",
+        "hotelName": "Holiday Inn Antalya - Lara",
+        "link": "https://www.ihg.com/holidayinn/hotels/gb/en/antalya/aytlg/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-TR-_-AYTLG",
+        "yildiz": "5",
+        "imageslink": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/http://www.cfmedia.vfmleonardo.com/imageRepo/7/0/109/392/255/AYTLG_6003119302_O/Holiday-Inn-Antalya-Lara-Beach.jpg?tr=w-780%2Ch-437%2Cfo-auto"
+    },
+    {
+        "id": "0.5",
+        "city": "Antalya",
+        "hotelName": "Titanic Beach Lara",
+        "link": "https://www.titanic.com.tr/titanic-beach-lara?utm_source=google&utm_medium=mybusiness",
+        "yildiz": "5",
+        "imageslink": "https://i.neredekal.com/i/neredekal/60273c72ff3ffdca374bd3f1"
+    },
+    {
+        "id": "0.6",
+        "city": "Antalya",
+        "hotelName": "Rixos Premium Belek",
+        "link": "https://www.rixos.com/en/hotel-resort/rixos-premium-belek?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&y_source=1_MTUzNTkzMzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "yildiz": "5",
+        "imageslink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1e/23/e0/general-view.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "id": "0.7",
+        "city": "Antalya",
+        "hotelName": "Titanic Deluxe Golf Belek",
+        "link": "https://www.titanic.com.tr/titanic-deluxe-golf-belek?utm_source=google&utm_medium=mybusiness",
+        "yildiz": "5",
+        "imageslink": "https://ucdn.tatilbudur.net/Otel/855x426/titanic-deluxe-belek_268515.jpg"
+    },
+    {
+        "id": "0.8",
+        "city": "Antalya",
+        "hotelName": "Crowne Plaza Antalya",
+        "link": "https://www.ihg.com/crowneplaza/hotels/gb/en/antalya/aytya/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-TR-_-AYTYA",
+        "yildiz": "5",
+        "imageslink": "https://digital.ihg.com/is/image/ihg/crowne-plaza-antalya-7607887316-3x2"
+    },
+    {
+        "id": "0.9",
+        "city": "Antalya",
+        "hotelName": "Akra Hotels",
+        "link": "http://www.akrahotels.com/tr/",
+        "yildiz": "5",
+        "imageslink": "https://cdn.tatilsepeti.com/Files/Images/Tesis/04412/1050X700/tsr04412637249689728363448.jpg"
+    },
+    {
+        "id": "1.1",
+        "city": "İzmir",
+        "hotelName": "Swissotel Buyuk Efes Izmir",
+        "link": "https://www.swissotel.com/hotels/izmir/?goto=fiche_hotel&code_hotel=A5A6&merchantid=seo-maps-TR-A5A6&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&y_source=1_MTIzNjEzNzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "yildiz": "5",
+        "imageslink": "https://content.r9cdn.net/rimg/himg/9e/40/50/ice-73743-71675240_3XL-643519.jpg?width=500&height=350&xhint=1024&yhint=798&crop=true"
+    },
+    {
+        "id": "1.2",
+        "city": "İzmir",
+        "hotelName": "Mövenpick Hotel Izmir",
+        "link": "https://www.movenpick.com/en/europe/turkey/izmir/hotel-izmir.html?utm_source=google&utm_medium=local&utm_campaign=hotel-MHR-izmar&y_source=1_MTUzNjI2ODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "yildiz": "5",
+        "imageslink": "https://www.yilbasiprogramlari.com/upload/movenpick-hotel-izmir.jpg"
+    },
+    {
+        "id": "1.3",
+        "city": "İzmir",
+        "hotelName": "Wyndham Grand Izmir Ozdilek",
+        "link": "https://www.wyndhamhotels.com/tr-tr/wyndham-grand/izmir-turkey/wyndham-izmir/overview?CID=LC:GR::GGL:RIO:National:47728&iata=00093796",
+        "yildiz": "5",
+        "imageslink": "https://cdn.tatilsepeti.com/Files/Images/Tesis/00228/1050X700/tsr00228637750850202038497.jpg"
+    },
+    {
+        "id": "1.3",
+        "city": "İzmir",
+        "hotelName": "Oglakcioglu Park Boutique Hotel",
+        "link": "https://parkhotelizmir.com/",
+        "yildiz": "5",
+        "imageslink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxkn--o2l31ZEKCVWa6c9zsBQ5QiHPnWupUg&usqp=CAU"
+    },
+    {
+        "id": "1.4",
+        "city": "İzmir",
+        "hotelName": "Orty Airport Hotel",
+        "link": "https://ortyhotels.com/",
+        "yildiz": "5",
+        "imageslink": "https://ortyhotels.com/img/hakkimizda.jpg"
+    },
+    {
+        "id": "1.5",
+        "city": "İzmir",
+        "hotelName": "Hilton Garden Inn Izmir Bayrakli",
+        "link": "https://www.hilton.com/en/hotels/izmgigi-hilton-garden-inn-izmir-bayrakli/?SEO_id=GMB-EMEA-GI-IZMGIGI",
+        "yildiz": "5",
+        "imageslink": "https://cf.bstatic.com/xdata/images/hotel/max500/58118694.jpg?k=a195c3ad74b2cb2a4a6ec9859544e62a3a47a5ddc00ea102abfbd0b6e8608df9&o=&hp=1"
+    },
+    {
+        "id": "1.6",
+        "city": "İzmir",
+        "hotelName": "Ibis Izmir Alsancak",
+        "link": "https://www.hilton.com/en/hotels/izmgigi-hilton-garden-inn-izmir-bayrakli/?SEO_id=GMB-EMEA-GI-IZMGIGI",
+        "yildiz": "5",
+        "imageslink": "https://www.ahstatic.com/photos/8158_ho_00_p_1024x768.jpg"
+    },
+    {
+        "id": "1.7",
+        "city": "İzmir",
+        "hotelName": "Smart Hotel Izmir",
+        "link": "https://smarthotels.com.tr/",
+        "yildiz": "5",
+        "imageslink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiStBOjJ9LL9fdeIOuwxowF9i-q3FrpO_pvmSRvTaFcG17z-MBCyQFLegSZudcque3tkc&usqp=CAU"
+    },
+    {
+        "id": "1.8",
+        "city": "İzmir",
+        "hotelName": "Kaya Izmir Thermal & Convention",
+        "link": "https://kayahotels.com/tr/oteller/kaya-izmir-thermal-convention",
+        "yildiz": "5",
+        "imageslink": "https://kayahotels.com/Uploads/c519e5b1-b066-490c-b043-5abfa603748c.webp"
+    },
+    {
+        "id": "1.9",
+        "city": "İzmir",
+        "hotelName": "Key Hotel",
+        "link": "http://www.keyhotel.com/",
+        "yildiz": "5",
+        "imageslink": "https://kayahotels.com/Uploads/c519e5b1-b066-490c-b043-5abfa603748c.webp"
+    },
+    {
+        "id": "1.10",
+        "city": "İzmir",
+        "hotelName": "Hotel Beyond",
+        "link": "http://www.keyhotel.com/",
+        "yildiz": "4",
+        "imageslink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqvUT_2sDZa1e4dOpsUivPSApucXYpScM2w&usqp=CAU"
+    },
+    {
+        "id": "1.11",
+        "city": "İzmir",
+        "hotelName": "Olimpiyat Otel",
+        "link": "https://www.olimpiyatotelizmir.com/",
+        "yildiz": "2",
+        "imageslink": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/26631214.jpg?k=375e6e28b19b5c648671bc611242aebfc44eba0f024c61e2b3a5b0643cce07f4&o=&hp=1"
+    },
+    {
+        "id": "1.12",
+        "city": "İzmir",
+        "hotelName": "Kaya Prestige Hotel",
+        "link": "https://www.olimpiyatotelizmir.com/",
+        "yildiz": "4",
+        "imageslink": "https://cdnturint.touristica.com.tr/otel-resimleri/v1.00/kaya-prestige-sunshine-hotel/900x600/kaya-prestige-sunshine-genel3_76592.jpg"
+    },
+    {
+        "id": "1.13",
+        "city": "İzmir",
+        "hotelName": "Tav Airport Hotel Izmir",
+        "link": "",
+        "yildiz": "4",
+        "imageslink": "https://cf.bstatic.com/xdata/images/hotel/max500/39637255.jpg?k=56f71f12948efde4b0d816d48a199b81476276f6f2088431b33016fd67e1b692&o=&hp=1"
+    },
+    {
+        "id": "1.14",
+        "city": "İzmir",
+        "hotelName": "Kozan City Hotel",
+        "link": "https://kozancityhotel.com/",
+        "yildiz": "3",
+        "imageslink": "https://cdn.tatilsepeti.com/Files/Images/Tesis/04431/1050X700/tsr04431637508810000931984.jpg"
+    },
+    {
+        "id": "1.15",
+        "city": "İzmir",
+        "hotelName": "DoubleTree by Hilton Izmir - Alsancak",
+        "link": "https://www.hilton.com/en/hotels/izmiadi-doubletree-izmir-alsancak/?SEO_id=GMB-EMEA-DI-IZMIADI",
+        "yildiz": "4",
+        "imageslink": "https://media-cdn.tripadvisor.com/media/photo-s/20/14/7a/81/exterior.jpg"
+    },
+    {
+        "id": "1.16",
+        "city": "İzmir",
+        "hotelName": "Zeniva Hotel",
+        "link": "https://www.zenivahotel.com/",
+        "yildiz": "4",
+        "imageslink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b6/93/da/zeniva-hotel.jpg?w=700&h=-1&s=1"
+    },
+    {
+        "id": "1.17",
+        "city": "İzmir",
+        "hotelName": "Volley Hotel Izmir",
+        "link": "https://www.volleyhotelizmir.com/",
+        "yildiz": "4",
+        "imageslink": "https://images.odamax.com/img/800x600/odamax/image/upload/ZmlsZU5hbWU9RFNDXzc4MDI_20210529131622.JPG"
+    },
+    {
+        "id": "1.18",
+        "city": "İzmir",
+        "hotelName": "Ege Palas",
+        "link": "https://www.egepalas.com.tr/index.php?dl=tr",
+        "yildiz": "4",
+        "imageslink": "https://www.egepalas.com.tr/images/slider/0.jpg"
+    },
+    {
+        "id": "1.19",
+        "city": "İzmir",
+        "hotelName": "Hotel Baylan Basmane",
+        "link": "http://www.hotelbaylan.com/",
+        "yildiz": "3",
+        "imageslink": "https://hotel-baylan-basmane.aegeanhotels.net/data/Photos/392x200/9425/942506/942506515.JPEG"
+    }
+]
